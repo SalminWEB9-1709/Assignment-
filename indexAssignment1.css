@@ -181,6 +181,7 @@ border-radius: 16px 16px 0px 0px;
         height: 229px;
 }
 .fifty{
+       position: relative; 
         width: 206.841px;
 height: 206.841px;
 
